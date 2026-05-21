@@ -18,12 +18,9 @@ projects below show how.
 
 ### 🎵 Spotify BR — Market Analysis
 **Tools:** Google Sheets · Looker Studio  
-Análise exploratória das músicas em competição no mercado brasileiro do Spotify,
-investigando padrões de gênero, concentração de artistas e decisões de qualidade
-de dados.
+Análise exploratória de 838 músicas em 38 países, investigando o que faz uma música ter sucesso no Spotify.
 
-Exploratory analysis of tracks competing in the Brazilian Spotify market,
-investigating genre patterns, artist concentration, and data quality decisions.  
+Exploratory analysis of 838 tracks across 38 countries, investigating what makes a song succeed on Spotify.  
 [Ver repositório](https://github.com/TatianaTerto/spotify-success-analysis)
 
 ### 🎵 Spotify BR — SQL Version
