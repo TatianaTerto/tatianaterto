@@ -1,4 +1,4 @@
-# Tatiana Terto — Data Analyst
+# Tatiana Terto - Data Analyst
 
 **PT** | O fio condutor da minha carreira nunca foi só o texto. Sempre baseei
 o meu trabalho em identificar padrões, traduzir sinais e apoiar decisões
