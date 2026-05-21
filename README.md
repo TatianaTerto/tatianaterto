@@ -24,7 +24,7 @@ de dados.
 
 Exploratory analysis of tracks competing in the Brazilian Spotify market,
 investigating genre patterns, artist concentration, and data quality decisions.  
-*(repositório em breve)*
+[Ver repositório](https://github.com/TatianaTerto/spotify-success-analysis)
 
 ### 🎵 Spotify BR — SQL Version
 **Tools:** BigQuery · SQL  
