@@ -23,13 +23,6 @@ Análise exploratória de 838 músicas em 38 países, investigando o que faz uma
 Exploratory analysis of 838 tracks across 38 countries, investigating what makes a song succeed on Spotify.  
 [Ver repositório](https://github.com/TatianaTerto/spotify-success-analysis)
 
-### 🎵 Spotify BR — SQL Version
-**Tools:** BigQuery · SQL  
-A mesma base de dados, explorada através de queries SQL no BigQuery.
-
-The same dataset, now explored through SQL queries in BigQuery.  
-*Em andamento | In progress*
-
 ---
 
 ## 🛠️ Tools | Ferramentas
