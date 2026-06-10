@@ -31,7 +31,7 @@ Exploratory analysis of 838 tracks across 38 countries, investigating what makes
 Análise em SQL de um varejista global em 38 países. Identifica o ponto exato de virada dos descontos, os modos de envio não lucrativos e 29 países operando com prejuízo.
 
 SQL analysis of a global retailer across 38 countries. Identifies the exact discount tipping point, unprofitable shipping modes, and 29 countries operating at a loss. 
-[Ver repositório](https://github.com/TatianaTerto/SuperStore-Analysis-with-SQLs)
+[Ver repositório](https://github.com/TatianaTerto/SuperStore-Analysis-with-SQL)
 
 ---
 
